@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Иван 👋
 
-<!--
-**whitedancerr/whitedancerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 4 курса, специальность «Информационные системы и программирование».
+Делаю веб-приложения целиком: интерфейс на React/Next.js, сервер на Node.js.
+Ищу стажировку fullstack-разработчиком.
 
-Here are some ideas to get you started:
+## Стек
+JavaScript · TypeScript · React · Next.js · Tailwind CSS
+Node.js · NestJS · Express · PostgreSQL · Prisma · Docker · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [Сайт для онлайн обучения](https://github.com/whitedancerr/sitecode6) — Next.js + PostgreSQL, 400+ пользователей
+
+
+## Контакты
+swedenstronggggg@gmail.com
